@@ -6,7 +6,6 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import BasicPets from "../src/components/BasicPets";
 import ThePets from "./components/ThePets";
-import SubscriptionSection from "./components/SubscriptionSection";
 import client from "./client"
 import Fragment from "./components/Fragment"
 import OptimisticPets from "./components/OptimisticUI";
